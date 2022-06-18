@@ -275,7 +275,7 @@ function isPalindrome(word) {
 
   // if we reach the middle, and all the letters match, return true
   return true;
-}
+} 
 ```
 
 Other than that change, our solution looks pretty good!
